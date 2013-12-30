@@ -1,5 +1,7 @@
 
-package com.acdroid.ingdirect;
+package com.aracem.ingcoordinates;
+
+import com.aracem.ingcoordinates.R;
 
 import android.app.Activity;
 import android.content.Context;
