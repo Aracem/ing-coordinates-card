@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/ingcolors.xml -->
+    <!-- From: file:/home/marcos/workspace/ing/ing-coordinates-card/app/src/main/res/values/ingcolors.xml -->
     <eat-comment />
 
     <color name="grey_ing">#666565</color>
     <color name="orange_ing">#e76500</color>
-    <!-- From: file:/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/marcos/workspace/ing/ing-coordinates-card/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="app_name">ING DIrect</string>
@@ -14,7 +14,7 @@
     <string name="menu_settings">Settings</string>
     <string name="title_activity_codes">Codes</string>
     <string name="title_activity_pass">PassActivity</string>
-    <!-- From: file:/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/marcos/workspace/ing/ing-coordinates-card/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppTheme" parent="android:Theme.Light" />
