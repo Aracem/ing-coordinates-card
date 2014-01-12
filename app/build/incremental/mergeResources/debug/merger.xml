@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res" >
+            <file
+                name="activity_pass"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/menu/activity_pass.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_codes"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/menu/activity_codes.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ic_launcher"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-mdpi/ic_action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" />
+            </file>
+            <file
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_activity_codes" >Codes
+                </string>
+                <string name="title_activity_pass" >PassActivity
+                </string>
+                <string name="app_name" >ING DIrect
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+            </file>
+            <file
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/ingcolors.xml"
+                qualifiers="" >
+                <color name="grey_ing" >#666565
+                </color>
+                <color name="orange_ing" >#e76500
+                </color>
+            </file>
+            <file
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" />
+            </file>
+            <file
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                name="activity_pass"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/layout/activity_pass.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_codes"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/layout/activity_codes.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item_codes"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/layout/list_item_codes.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ingdirect"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-xhdpi/ingdirect.jpeg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/home/marcos/workspace/ing/ing-gradle/app/src/main/res/drawable-hdpi/ic_action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/marcos/workspace/ing/ing-gradle/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/marcos/workspace/ing/ing-gradle/app/src/debug/res" />
+    </dataSet>
+
+</merger>
